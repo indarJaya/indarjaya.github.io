@@ -1,7 +1,6 @@
 ﻿CACHE MANIFEST
-#1532106795
+#1532136395
 data.js
-game.html
 c2runtime.js
 jquery-2.1.1.min.js
 offlineClient.js
@@ -14,13 +13,14 @@ images/koin_-sheet2.png
 images/mati-sheet0.png
 images/bintang-sheet0.png
 images/depan2x-sheet0.png
-images/icon_play-sheet0.png
+images/back-sheet0.png
 images/icon_about-sheet0.png
 images/icon_about2-sheet0.png
 images/icon_jawab-sheet0.png
 images/img_20180217_-sheet0.png
 images/icon_play2-sheet0.png
 images/judul-sheet0.png
+images/icon_soal_b-sheet0.png
 media/cat-burglars.m4a
 media/cat-burglars.ogg
 media/sukoin.m4a
